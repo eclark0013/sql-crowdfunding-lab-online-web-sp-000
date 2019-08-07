@@ -37,4 +37,4 @@ INSERT INTO users
   ("T", 1);
 
 INSERT INTO pledges
-  (amount, )
+  (amount, user_id, project_id)
