@@ -35,3 +35,6 @@ INSERT INTO users
   ("R", 1),
   ("S", 1),
   ("T", 1);
+
+INSERT INTO pledges
+  (amount, )
