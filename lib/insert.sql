@@ -11,3 +11,7 @@ INSERT INTO projects
   ("H", "A", 1, "1", "1"),
   ("I", "A", 1, "1", "1"),
   ("J", "A", 1, "1", "1");
+
+INSERT INTO users
+  (name, age)
+  VALUES
