@@ -1,5 +1,5 @@
 INSERT INTO projects
-  (title, category, funding goal, start_date, end_date)
+  (title, category, funding_goal, start_date, end_date)
   VALUES
   ("A", "A", 1, "1", "1"),
   ("B", "A", 1, "1", "1"),
